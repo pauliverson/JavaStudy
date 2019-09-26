@@ -1,6 +1,6 @@
 package com.hjy.LearnStudy.JavaStudy.Leet;
 
-import com.didi.mybatis.demo.JavaStudy.ListNode;
+import com.hjy.LearnStudy.JavaStudy.ListNode;
 
 import java.util.Stack;
 

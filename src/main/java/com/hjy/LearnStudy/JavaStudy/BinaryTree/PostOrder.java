@@ -1,6 +1,6 @@
 package com.hjy.LearnStudy.JavaStudy.BinaryTree;
 
-import com.didi.mybatis.demo.JavaStudy.TreeNode;
+import com.hjy.LearnStudy.JavaStudy.TreeNode;
 
 import java.util.Stack;
 

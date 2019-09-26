@@ -1,6 +1,5 @@
 package com.hjy.LearnStudy.JavaStudy.Leet;
 
-import com.didi.mybatis.demo.entity.UserModel;
 
 /**
  * @author huangjunyan

@@ -1,6 +1,5 @@
 package com.hjy.LearnStudy.JavaStudy.DesingPattern.BridgePatter;
 
-import com.didi.mybatis.demo.entity.UserModel;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -26,9 +25,9 @@ public class BridgePatternMain {
         circle.printInfo(111.0);
         circle.printPair("xi",1);
         circle.printPair(123,"hhh");
-        UserModel userModel = new UserModel();
-        circle.print(userModel);
-        circle.printInfo(userModel);
+//        UserModel userModel = new UserModel();
+//        circle.print(userModel);
+//        circle.printInfo(userModel);
         redCircle.draw();
         blueCircle.draw();
     }
