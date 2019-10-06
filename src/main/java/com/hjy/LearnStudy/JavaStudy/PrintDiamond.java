@@ -9,7 +9,7 @@ package com.hjy.LearnStudy.JavaStudy;
 public class PrintDiamond {
     public static void main(String[] args) {
         //边长，为双数则长度+1，奇数则就是输入的长度
-        printDiamond(5);
+        printDiamond(6);
     }
 
     public static void printDiamond(int size) {
